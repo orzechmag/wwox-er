@@ -1,4 +1,4 @@
-# Supplementary materials supproting the findings of the article entitled TGF-α - EGFR pathway in breast carcinogenesis, association with WWOX expression and estrogen activation by Pospiech et al.
+# Supplementary materials supporting the findings of the article entitled TGF-α - EGFR pathway in breast carcinogenesis, association with WWOX expression and estrogen activation by Pospiech et al.
 
 
 This repository offers supplementary files supporting the anlysis of the association of WWOX and estrogen receptor expression in breast cancer cell lines enclosed in the article by Pospiech et al. entitled TGF-α - EGFR pathway in breast carcinogenesis, association with WWOX expression and estrogen activation, currently cosidered by the Journal of Applied Genetics for publication.
